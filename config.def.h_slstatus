@@ -71,5 +71,6 @@ static const struct arg args[] = {
 	{run_command, "%s",         "bluetooth_icon" },
 	{run_command, "%s",         "ssd" },
 	{run_command, "%s",         "network" },
+	{run_command, "%s",         "key" },
 	{run_command, "%s",         "battery" },
 };
